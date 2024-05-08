@@ -30,3 +30,13 @@ Please feel free to contribute by forking the repository and submitting a pull r
 
 ## Contact
 For any inquiries or suggestions, you can reach out to [rithiksuthan123@gmail.com](mailto:rithiksuthan123@gmail.com).
+
+## Screen Shots
+![image](https://github.com/RithikSuthan/HR-Management-System/assets/72434153/a8fbe7cb-babb-44bb-b6de-b14c3c8d387d)
+![image](https://github.com/RithikSuthan/HR-Management-System/assets/72434153/1c0a0dc7-3f8e-437b-9376-ed23986895f8)
+![image](https://github.com/RithikSuthan/HR-Management-System/assets/72434153/74d24c12-34fc-4d50-838f-90b1795e5c09)
+![image](https://github.com/RithikSuthan/HR-Management-System/assets/72434153/5313fb88-8397-47db-a4fb-cfd4742b7580)
+
+
+
+
