@@ -5,7 +5,7 @@ Here's a neatly organized version of the content for your HRM Software README fi
 # HRM Software
 
 ## Overview
-The main aim of our project is to develop and maintain an HRM software where HR can create and maintain employee records efficiently.
+The main aim of my project is to develop and maintain an HRM software where HR can create and maintain employee records efficiently.
 
 ## Data Structures Used
 - **Red Black Trees:** Used to store employee data, enabling operations such as insertion, deletion, modification, and display.
