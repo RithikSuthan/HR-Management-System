@@ -1,7 +1,40 @@
-# HR-Management-System
-The HR Management System is developed using Red Black Trees in the C++ programming language.
-	Create record:It will insert the new data to a new node or one can update the data to a existing node.
-	Display record:To print all the record;
-	Delete record:One can delete the record by accepting the Si.No of the people.
-	Modify record:One can modify the details of the customer by checking the si.no of the customer.
-	Search record:One can search and display the record by using the si.no of the customer
+Here's a neatly organized version of the content for your HRM Software README file:
+
+---
+
+# HRM Software
+
+## Overview
+The main aim of our project is to develop and maintain an HRM software where HR can create and maintain employee records efficiently.
+
+## Data Structures Used
+- **Red Black Trees:** Used to store employee data, enabling operations such as insertion, deletion, modification, and display.
+- **Heap:** Utilized for finding the highest paid employee in the company.
+- **Hash Table:** Employed for faster searching of employee records, using the last four digits of Aadhaar card as the key value index.
+- **Binary Search Tree:** Used when two or more employees have the same hash key index, storing their records in the corresponding binary search tree.
+- **Stack:** Employed for undo operations, allowing for the restoration of deleted records.
+
+## Functionality
+### For Employees:
+- View Profile
+- View Payroll
+
+### For HR:
+- Create Record
+- Add Record
+- Search Record
+- Display Record
+- Display Record in Descending Order
+- Modify Record
+- Delete Record
+- Undo Record
+
+## Contributing
+Please feel free to contribute by forking the repository and submitting a pull request. Your contributions are greatly appreciated!
+
+## Contact
+For any inquiries or suggestions, you can reach out to [rithiksuthan123@gmail.com](mailto:rithiksuthan123@gmail.com).
+
+---
+
+Feel free to customize any part of this template to fit the specifics of your project! Let me know if you need further assistance.
