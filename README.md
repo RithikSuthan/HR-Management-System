@@ -1,7 +1,3 @@
-Here's a neatly organized version of the content for your HRM Software README file:
-
----
-
 # HRM Software
 
 ## Overview
@@ -34,7 +30,3 @@ Please feel free to contribute by forking the repository and submitting a pull r
 
 ## Contact
 For any inquiries or suggestions, you can reach out to [rithiksuthan123@gmail.com](mailto:rithiksuthan123@gmail.com).
-
----
-
-Feel free to customize any part of this template to fit the specifics of your project! Let me know if you need further assistance.
